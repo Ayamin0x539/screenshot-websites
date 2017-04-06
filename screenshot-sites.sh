@@ -6,5 +6,5 @@ echo "Analyzing file:" $FILE_NAME
 
 while read line; do
     echo "Screenshotting" $line "..."
-    phantomjs test.js $line
+    phantomjs ghostie.js $line
 done < $1
