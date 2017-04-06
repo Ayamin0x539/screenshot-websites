@@ -1,4 +1,5 @@
-***Usage***
+**Usage**
+
 Edit `sites.txt` with your favorite websites, and then run:
 
 ```sh
